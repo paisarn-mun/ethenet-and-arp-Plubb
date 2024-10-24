@@ -1,0 +1,12 @@
+e0:be:03:3f:ca:96
+1c:61:b4:47:3f:f0 no, it is the address of the router in the area like home router
+Hex value = 0x0800 and it is correspond to IPv4 protocol.
+54
+1c:61:b4:47:3f:f0 no its university MAC address
+e0:be:03:3f:ca:96 my own address
+Hex value = 0x0800 and it is correspond to IPv4 protocol.
+13
+4 ethernet frame 1 is 505, 2 is 506, 3 is 508, 4 is 509
+
+
+
